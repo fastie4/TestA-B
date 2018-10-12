@@ -1,0 +1,11 @@
+<resources>
+    <string name="debug">debug</string>
+    <string name="app_name">TestA</string>
+    <string name="tab_text_1">Test</string>
+    <string name="tab_text_2">History</string>
+    <string name="action_sort">Sort</string>
+    <string name="action_sort_date">Sort by date</string>
+    <string name="action_sort_status">Sort by status</string>
+    <string name="ok">OK</string>
+    <string name="link">Link</string>
+</resources>

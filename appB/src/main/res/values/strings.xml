@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestB</string>
+    <string name="message_link_deleted">The link was deleted.</string>
+    <string name="message_no_action">The app is not an independent and will be closed in %1$d seconds.</string>
+    <string name="message_not_correct_link">The link is not correct.</string>
+    <string name="message_error">An error occurred during the loading of the image.</string>
+</resources>

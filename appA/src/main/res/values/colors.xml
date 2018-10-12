@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="loaded">#97ff97</color>
+    <color name="error">#ff9a9a</color>
+    <color name="unknown">#bababa</color>
+</resources>
